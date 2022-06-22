@@ -6,4 +6,4 @@
 * [Step definitions]()
 * [Features]()
 * [Options]()
-* [Configuration]()
+* [Configuration](https://github.com/jakubrylko/java-selenium-cucumber/blob/main/pom.xml)
