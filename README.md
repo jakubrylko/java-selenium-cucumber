@@ -4,6 +4,6 @@
 ## Content:
 * [Task list](https://github.com/jakubrylko/java-selenium-cucumber/blob/main/java-selenium-cucumber-tasks.pdf)
 * [Step definitions]()
-* [Features]()
+* [Features](https://github.com/jakubrylko/java-selenium-cucumber/tree/main/features)
 * [Options]()
 * [Configuration](https://github.com/jakubrylko/java-selenium-cucumber/blob/main/pom.xml)
